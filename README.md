@@ -1,4 +1,3 @@
-Вот README файл для вашей инфраструктуры WordPress без учета Route 53 и Load Balancer.
 
 ---
 
@@ -14,7 +13,7 @@ This setup provisions a WordPress instance on AWS using Terraform. The infrastru
 ## Prerequisites
 
 1. **AWS Account**: Ensure you have AWS credentials configured locally or use an IAM role with appropriate permissions.
-2. **Terraform**: [Install Terraform](https://www.terraform.io/downloads.html) if not already installed.
+2. **Terraform**
 3. **SSH Key**: Create or provide an SSH keypair (e.g., `denys.yerenkov`) for EC2 access.
 
 ## Infrastructure Overview
